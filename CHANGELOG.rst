@@ -1,6 +1,10 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package pal_gazebo_worlds
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+4.6.1-FORK (2026-02-20)
+------------------
+* Forked from https://github.com/pal-robotics/pal_gazebo_worlds?tab=contributing-ov-file
+* Some modifications needed to improve SLAM in https://github.com/albertoPerez25/Reconocimiento-y-sintesis-visual-Tiago
 
 4.6.1 (2025-09-15)
 ------------------
